@@ -1,2 +1,2 @@
-# Laboratoio
+# Laboratorio
 Repositório da turma de laboratorio
